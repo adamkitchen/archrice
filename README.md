@@ -1,4 +1,4 @@
-# Luke's GNU/Linux Dotfiles
+# Adam's GNU/Linux Dotfiles
 
 These are my dotfiles! The name of the repo, "voidrice", came from the fact they were originally on my Void Linux machine, but these files are distro-independent. In fact, I now push changes from my X200 running Parabola or my X220 running Arch.
 
@@ -45,8 +45,8 @@ Donations are earmarked for whatever the donator wants, usually to go to funds f
 
 # "Dependencies" and programs used
 
-The programs I use here are always changing, but luckily you can just look at the installation list for [LARBS](http://larbs.xyz) here:
+The programs I use here are always changing, but luckily you can just look at the installation list for [LENNY](http://larbs.xyz) here:
 
-+ [List of programs installed by LARBS, including optional packages](https://github.com/LukeSmithxyz/LARBS/blob/master/progs.csv)
++ [List of programs installed by LENNY, including optional packages](https://github.com/LukeSmithxyz/LARBS/blob/master/progs.csv)
 
 `A` marks programs in the AUR, `G` marks git repositories.
