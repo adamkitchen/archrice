@@ -1,0 +1,1 @@
+alias sst="clear && cd ~/.cache/yay/sst/src && ./sst"
